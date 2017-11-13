@@ -19,3 +19,8 @@ It would appear that I would be more successful in comepleting this.
 I have just been registered on Rosetta Stone for an online Chinese learning program.
 I hope to learn a basic amount of this language by the end of my 20 Time Project.
 I've started off with the very basics, aka learning small words.
+
+#### 11/11/2017
+Continuing to learn basic Chinese.
+I have added a pdf I use to refernce basic Chinese words and characters.
+Ability to speak and read is still very poor.
