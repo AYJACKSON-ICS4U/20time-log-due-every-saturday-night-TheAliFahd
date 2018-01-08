@@ -24,3 +24,18 @@ I've started off with the very basics, aka learning small words.
 Continuing to learn basic Chinese.
 I have added a pdf I use to refernce basic Chinese words and characters.
 Ability to speak and read is still very poor.
+
+#### 11/25/2017
+Continuing to learn basic Chinese.
+Program is focusing on pronouncing letters.
+Ability to speak and read is still very poor.
+
+#### 12/9/2017
+Learning Chinese is proving to be very difficult with the time I have.
+I plan to focus on just learning basic phrases.
+Rosetta Stone program is a bit advance.
+
+#### 12/16/2017
+I've decided to change my project yet again. 
+This time I'll be putting together a little booklet of basic chinese phrases that I believe would come in handy if someone were to visit China.
+Added a webiste which I am using as a reference to start my booklet.
